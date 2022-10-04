@@ -43,5 +43,13 @@
 }
 
 .a-flex{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.text-flex{
+  padding: 10px;
+  background: #fff;
   display: flex;
 }
