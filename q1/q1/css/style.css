@@ -26,18 +26,22 @@
   text-align: center;
 }
 
-.q1--perimeter-table {
-  width: 250px;
-  height: 150px;
-  margin: 0 auto 20px;
-  background-color: #a4e4f1;
-  font-size: 10px;
+.a-table {
+  display: table;
 }
 
 .table{
-  display: table;
-  background: #fff;
-  padding: 10px;
-  margin: 0 auto;
   text-align: center;
+  vertical-align: middle;
+  display: table-cell;
+}
+
+.text-table{
+  padding: 10px;
+  background: #fff;
+  display: inline-block;
+}
+
+.a-flex{
+  display: flex;
 }
