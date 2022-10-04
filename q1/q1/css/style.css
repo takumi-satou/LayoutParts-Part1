@@ -53,3 +53,17 @@
   background: #fff;
   display: flex;
 }
+
+
+.text-position{
+  position: relative;
+  padding: 10px;
+  background: #a4b3e9;
+  display:  inline-block;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+
