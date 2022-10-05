@@ -7,8 +7,11 @@
 
 .card{
   background: #d2b48c;
-  margin: 60px;
+  margin: 30px;
   padding: 10px;
-  border: 10px solid#655;
+  outline: 10px solid#655;
+  border-radius: 13px;
   width: 200px;
+  box-shadow: 0 0 0 6px #655;
+  list-style: none;
 }
