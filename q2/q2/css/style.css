@@ -1,5 +1,12 @@
 @charset "UTF-8";
 /* 回答はここから */
-.li{
-  display: inline;
+.cardlist{
+  display: flex;
+  justify-content: center;
+}
+
+.card{
+  background: #d2b48c;
+  margin: 60px;
+  padding: 10px;
 }
