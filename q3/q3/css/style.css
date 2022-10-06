@@ -1,1 +1,23 @@
 @charset "UTF-8";
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+.item1 {
+  border: 1px solid grey;
+  padding: 3px 10px;
+  background: #319c4a;
+  text-align: center;
+  width: 50px;
+}
+.item2 {
+  border: 1px solid grey;
+  padding: 3px 10px;
+  background: #ddd;
+  width: 100px;
+}
+.value1 {
+  border: 1px solid grey;
+  padding: 3px 10px;
+  cursor: pointer;
+}
