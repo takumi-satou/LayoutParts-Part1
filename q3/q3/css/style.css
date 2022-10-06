@@ -13,11 +13,12 @@ table {
 .item2 {
   border: 1px solid grey;
   padding: 3px 10px;
-  background: #ddd;
+  background: #d5ffc7;
+  text-align: center;
   width: 100px;
 }
-.value1 {
+.item3 {
   border: 1px solid grey;
   padding: 3px 10px;
-  cursor: pointer;
+  background: #bcbcbc;
 }
