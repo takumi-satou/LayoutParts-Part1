@@ -7,16 +7,15 @@
 .cell--table th {
   background: #319c4a;
   text-align: center;
+  line-height: 26px;
 }
-.item2 {
-  border: 1px solid grey;
-  padding: 3px 10px;
+.cell--table td {
   background: #d5ffc7;
   text-align: center;
-  width: 100px;
+  border-spacing: 10px;
+  line-height: 22px;
 }
-.item3 {
-  border: 1px solid grey;
-  padding: 3px 10px;
-  background: #bcbcbc;
+.cell--table th, .cell--table td {
+  border: 1px solid #000;
+  font-size: 18px;
 }
