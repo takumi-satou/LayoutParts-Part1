@@ -24,3 +24,21 @@
   background: #fff27b;
   width: 300px;
 }
+
+.green--box{
+  background: #7bff91;
+}
+
+.pink--box{
+  background: #ff7be2;
+  width: 400px;
+}
+
+.orange--box{
+  background: #ffc67b;
+  width: 400px;
+}
+
+.lightblue--box{
+  background: #7bf2ff;
+}
