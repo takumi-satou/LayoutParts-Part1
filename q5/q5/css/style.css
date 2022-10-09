@@ -27,3 +27,18 @@
   display: flex;
   flex-direction: column-reverse;
 }
+
+.flex--box--nowrap{
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.flex--box--wrap{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex--box--wrap-reverse{
+  display: flex;
+  flex-wrap: wrap-reverse;
+}
