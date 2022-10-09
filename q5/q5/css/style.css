@@ -8,8 +8,8 @@
   background: #0bd;
   width: 65px;
   padding: 10px;
-  margin-right: 20px;
-  margin-bottom: 20px;
+  margin: 10px;
+  text-align: center;
   color: #fff;
 }
 
@@ -66,4 +66,24 @@
 .flex--box--space-around{
   display: flex;
   justify-content: space-around;
+}
+
+.grid--item{
+  background: #0bd;
+  color: #fff;
+  padding: 10px;
+}
+
+.grid--box--template{
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  column-gap: 10px;
+  row-gap: 10px;
+}
+.grid--box--stretch{
+  margin-top: 10px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 10px;
+  row-gap: 10px;
 }
