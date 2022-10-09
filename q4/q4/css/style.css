@@ -1,11 +1,26 @@
 @charset "UTF-8";
 
-.main--area{
-  display: flex;
+.sub--box{
+  display: table;
   width: 100%;
 }
 
 .main--box{
-  background: red;
+  display: table-cell;
+  text-align: center;
+  padding: 20px;
+}
+
+.red--box{
+  background: #ff7b7b;
+  width: 300px;
+}
+
+.blue--box{
+  background: #7b86ff;
+}
+
+.yellow--box{
+  background: #fff27b;
   width: 300px;
 }
