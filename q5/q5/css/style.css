@@ -11,3 +11,8 @@
   margin-right: 20px;
   color: #fff;
 }
+
+.flex--box--reverse{
+  display: flex;
+  flex-direction: row-reverse;
+}
