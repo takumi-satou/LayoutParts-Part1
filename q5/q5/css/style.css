@@ -9,10 +9,21 @@
   width: 65px;
   padding: 10px;
   margin-right: 20px;
+  margin-bottom: 20px;
   color: #fff;
 }
 
 .flex--box--reverse{
   display: flex;
   flex-direction: row-reverse;
+}
+
+.flex--box--column{
+  display: flex;
+  flex-flow: column;
+}
+
+.flex--box--column-reverse{
+  display: flex;
+  flex-direction: column-reverse;
 }
