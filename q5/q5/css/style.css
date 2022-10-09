@@ -42,3 +42,28 @@
   display: flex;
   flex-wrap: wrap-reverse;
 }
+
+.flex--box--flex-start{
+  display: flex;
+  justify-content: flex-start;
+}
+
+.flex--box--flex-end{
+  display: flex;
+  justify-content: flex-end;
+}
+
+.flex--box--center{
+  display: flex;
+  justify-content: center;
+}
+
+.flex--box--space-between{
+  display: flex;
+  justify-content: space-between;
+}
+
+.flex--box--space-around{
+  display: flex;
+  justify-content: space-around;
+}
