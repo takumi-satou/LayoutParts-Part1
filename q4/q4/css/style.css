@@ -42,3 +42,6 @@
 .lightblue--box{
   background: #7bf2ff;
 }
+.sub--box:nth-child(n+2){
+  margin-top: 50px;
+}
