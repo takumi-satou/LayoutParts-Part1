@@ -1,1 +1,13 @@
 @charset "UTF-8";
+
+.flex--box{
+  display: flex;
+}
+
+.flex--item{
+  background: #0bd;
+  width: 65px;
+  padding: 10px;
+  margin-right: 20px;
+  color: #fff;
+}
